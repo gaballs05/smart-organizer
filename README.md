@@ -17,5 +17,5 @@ This script automatically sorts documents, code, AI models, audio, video, and mo
 ## ⚙️ Installation
 1. Clone the repository:
 ```bash
-   git clone https://github.com/TUUSUARIO/nextvision-organizer.git
-   cd nextvision-organizer
+  git clone https://github.com/gaballs05/smart-organizer.git
+   cd smart-organizer
